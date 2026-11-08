@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DAMflix</string>
+
+    <!-- Actividad 1 -->
+
+     <string name="avatar_desc">Avatar del usuario</string>
+     <string name="user_name">Ivan HB</string>
+     <string name="user_rol">Crítico de Cine</string>
+     <string name="estadisticas_peliculas">%1$d Películas Vistas</string>
+     <string name="estadisticas_resenas">%1$d Reseñas</string>
+
+     <!-- Actividad 2 -->
+
+    <string name="titulo_pelicula">Título de la Película</string>
+    <string name="director_pelicula">Director/a</string>
+    <string name="anio_estreno">Año de estreno</string>
+    <string name="pelicula_vista">Ya he visto esta película</string>
+    <string name="guardar_pelicula">Guardar Película</string>
+
+    <!-- Actividad 4 y 5 -->
+
+    <string name="navegacion_inicio">Inicio</string>
+    <string name="navegacion_listado">Listado</string>
+    <string name="navegacion_anadir">Añadir</string>
+    <string name="titulo_inicio">Información de la Aplicación</string>
+    <string name="titulo_catalogo">Catálogo</string>
+    <string name="titulo_formulario">Formulario</string>
+    <string name="anadir_nueva_pelicula">Añadir Nueva Película</string>
+
+    <!--  <string name="favorito">Favorito</string> -->
+    <!--  <string name="director_anio">%1$s • %2$d</string> -->
+
+
+     <!-- Actividad 6 -->
+
+    <string name="titulo_app">DAMFlix</string>
+    <string name="cabecera_drawer">DAMFlix - Room ORM</string>
+    <string name="abrir_menu">Abrir Menú</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_catalogo">Catálogo</string>
+    <string name="menu_anadir_pelicula">Añadir Película</string>
+    <string name="favorito">Favorito</string>
+    <string name="director_anio">%1$s • %2$d</string>
+    <string name="añadir_pelicula_room">Añadir Película (Room)</string>
+
+    <!-- Actividad 7 -->
+
+    <string name="menu_detalle">Detalle</string>
+    <string name="detalle_volver">← Volver al Catálogo</string>
+    <string name="detalle_cargando">Cargando datos de Room en segundo plano...</string>
+    <string name="detalle_director">Director/a: %1$s</string>
+    <string name="detalle_anio">Año de estreno: %1$d</string>
+    <string name="detalle_vista">Estado: Ya vista</string>
+    <string name="detalle_pendiente">Estado: Pendiente de ver</string>
+    <string name="detalle_no_encontrada">Película no encontrada.</string>
+    <string name="detalle_favorita">Favorita: Sí</string>
+    <string name="detalle_no_favorita">Favorita: No</string>
+</resources>
