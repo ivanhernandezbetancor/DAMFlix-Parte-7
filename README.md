@@ -201,8 +201,9 @@ app/src/main
 │   ├── view
 │   │   └── Ruta.kt                              # Rutas (+ Detalle con crearRuta)
 │   └── ui
+│       ├── navigation
+│       │   ├──  AppDAMFlixMainScreen.kt          # Drawer, Scaffold y NavHost
 │       ├── screens
-│       │   ├── AppDAMFlixMainScreen.kt          # Drawer, Scaffold y NavHost
 │       │   ├── FormularioAgregarPeliculaScreen.kt
 │       │   └── ListaPeliculasScreen.kt          # Tarjetas con onClick hacia el detalle
 │       └── theme
